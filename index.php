@@ -7,8 +7,6 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" id="bootstrap-css">
     <!-- Bootstrap CSS -->
-    
-
     <title>Quark</title>
   </head>
   <body>
